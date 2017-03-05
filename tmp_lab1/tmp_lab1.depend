@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488721711 source:c:\users\user\documents\codeblocks projects\tmp_lab1\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
